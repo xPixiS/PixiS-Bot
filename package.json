@@ -1,0 +1,19 @@
+{
+  "name": "pixis",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "PixiS",
+  "license": "ISC",
+  "dependencies": {
+    "discord-music-player": "^5.0.6",
+    "discord.js": "^12.4.1",
+    "ffmpeg": "^0.0.4",
+    "opusscript": "^0.0.7",
+    "proton-io": "^0.1.4",
+    "wio.db": "^4.0.9"
+  }
+}
